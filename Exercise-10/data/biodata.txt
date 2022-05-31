@@ -1,6 +1,6 @@
 Nama: Danish
 Umur: 19
-Alamat: Bekasi
-Nama: Danish
+Alamat: Ngawi
+Nama: Faizi
 Umur: 20
-Alamat: Bekasi Barat
+Alamat: Bekasi
