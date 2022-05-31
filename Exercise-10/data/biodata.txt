@@ -1,0 +1,3 @@
+Nama: Halo
+Umur: Halo
+Alamat: Halo
