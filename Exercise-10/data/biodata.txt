@@ -1,3 +1,6 @@
-Nama: Halo
-Umur: Halo
-Alamat: Halo
+Nama: Danish
+Umur: 19
+Alamat: Bekasi
+Nama: Danish
+Umur: 20
+Alamat: Bekasi Barat
