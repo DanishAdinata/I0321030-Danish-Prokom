@@ -1,6 +1,6 @@
 Nama: Danish
-Umur: 20
-Alamat: Ngawi
-Nama: Faizi
 Umur: 19
-Alamat: Ngawi
+Alamat: Bekasi
+Nama: Danish Faizi Adinata
+Umur: 20
+Alamat: Bekasi Barat
